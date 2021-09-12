@@ -29,12 +29,14 @@ Botao_0_3_0
    0.1.0 --> Colocando #define para cada botão e led
    
    0.2.0 --> Colocar o pinMode para o Led
-             Colocar o pinMode para os botões 1, 2 e 3
+   
+   0.2.0 --> Colocar o pinMode para os botões 1, 2 e 3
 
    0.3.0 --> Colocar o loop com if e for com os 3 botões
 
 
    11/09/2021
+   
    Andressa Mikaela Padilha
 
 
